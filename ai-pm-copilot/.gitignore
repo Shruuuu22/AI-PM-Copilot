@@ -1,0 +1,8 @@
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.env
+storage/*.db
+.vscode/
+.ipynb_checkpoints/

@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+plotly
+python-dotenv
+faker
+spacy
+scikit-learn
+matplotlib
+jinja2
